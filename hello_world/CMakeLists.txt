@@ -2,7 +2,7 @@
 # 1) Write source files and CmakeLists.txt
 # 2) mkdir build
 # 3) cd build
-# 4) cmake ..
+# 4) cmake .. -> this command converts cmakelists into make file
 # 5) make
 
 # Set the minimum required version of cmake that can be used to compile the project
