@@ -4,6 +4,7 @@
 # 3) cd build
 # 4) cmake .. -> this command converts cmakelists into make file
 # 5) make
+# 6) ./HelloWorld (Run the compiled executable)
 
 # Set the minimum required version of cmake that can be used to compile the project
 cmake_minimum_required(VERSION 3.22)
