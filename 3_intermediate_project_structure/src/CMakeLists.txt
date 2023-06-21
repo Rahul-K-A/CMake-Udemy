@@ -1,0 +1,4 @@
+add_executable(IntermediateStructure main.cpp)
+
+
+target_link_libraries(IntermediateStructure PUBLIC MyLibrary)
